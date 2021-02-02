@@ -1,5 +1,10 @@
 
 
+.hidden
+{
+	display: none;
+}
+
 body{
 
     max-width:500px;
