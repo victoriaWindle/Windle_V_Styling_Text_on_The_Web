@@ -1,0 +1,45 @@
+
+
+.hidden
+{
+	display: none;
+}
+
+body{
+
+    max-width:500px;
+    margin:0 auto;
+    padding:25px;
+}
+
+.box{
+
+	display:flex;
+    margin-bottom:50px;
+    padding-bottom:25px;
+}
+
+h1{
+
+	font-family: 'Oxygen', Arial, sans-serif;
+	word-spacing: 10px;
+	color: #C0C0C0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-weight: normal;
+	word-spacing: 7px;
+	letter-spacing: 4px
+
+}
+
+p{
+	font-family: 'Kanit', Arial, sans-serif;
+	word-spacing: 5px;
+	font-size: 15px;
+	line-height: 18px;
+	margin-bottom: 8px;
+	margin-top: 5px;
+	font-weight: normal;
+	word-spacing: 2px;
+
+}
