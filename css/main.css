@@ -16,11 +16,12 @@ body{
 
 h1{
 
-
+	font-family: 'Oxygen', Arial, sans-serif;
+	word-spacing: 10px;
 
 }
 
 p{
-
-
+	font-family: 'Kanit', Arial, sans-serif;
+	word-spacing: 5px;
 }
